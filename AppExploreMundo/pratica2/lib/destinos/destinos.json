@@ -1,0 +1,37 @@
+{
+    "destinos": [{
+        "id": 1,
+        "nome": "Parque Nacional Kakadu",
+        "local": "Kakadu Hwy, Austrália",
+        "descrição": "O Parque Nacional Kakadu é um lugar atemporal - uma paisagem de excepcional beleza e diversidade. As áreas costeiras orladas de manguezais se misturam em extensas planícies de inundação, colinas flanqueadas a leste por escarpas de arenito, todas entrelaçadas entre vários bosques abertos e habitats florestais. Comparando com a vida selvagem na água, na terra e no ar, existem muitas espécies que fornecem uma diversidade e concentração não vistas em nenhum outro lugar. A terra assume diferentes formas e cores com o passar de cada estação. Patrimônio da humanidade e o maior parque nacional da Austrália, Kakadu é uma das paisagens mais diversificadas que você já viu, e você ficará surpreso com a população de vida selvagem na água, na terra e no ar. Aqui você pode experimentar alguns dos terrenos mais incríveis que a Austrália tem a oferecer no seu caminho para e dentro de Kakadu. Maravilhe-se com a concentração de locais de arte rupestre que ilustram a cultura aborígine, alguns com 50.000 anos.",
+        "imagem": "lib/imagens/kakadu.jpg" 
+    },
+    {
+        "id": 2,
+        "nome": "Camping no Lago Oeschinen",
+        "local": "Kandersteg, Suíça",
+        "descrição": "O Lago Oeschinen fica aos pés do Blüemlisalp nos Alpes Berneses. Situado a 1.578 metros acima do nível do mar, é um dos lagos alpinos mais amplos. Um passeio de teleférico a partir de Kandersteg, seguido por meia hora de caminhada por pastagens e floresta de pinheiros, leva você ao lago, que aquece até 20 graus Celsius no verão. As atividades desfrutadas aqui incluem remo e andar no tobogã de verão.",
+        "imagem": "lib/imagens/lagoSuica.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Capelas de Mármore",
+        "local": "Patagônia, Chile",
+        "descrição": "Na Patagônia você pode navegar de caiaque por entre as fantásticas Capelas de Mármore esculpidas pelas águas do Lago General Carrera em plena Patagônia. São tons de branco, cinza, marrom e bege que refletem o azul cristalino das águas. É um passeio muito longe dos grandes centros e uma aventura inesquecível.",
+        "imagem": "lib/imagens/catedralMarmore.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Cape Point",
+        "local": "Cabo da Boa Esperança, África do Sul",
+        "descrição": "Cape Point e o Cabo da Boa Esperança são frequentemente referidos como o ponto de encontro romântico de dois oceanos poderosos, o Atlântico e o Índico. Localizado no extremo sul da Península do Cabo, este passeio por Cape Point + Peninsula é o máximo em cobrir as partes mais pitorescas de maneira fácil, conveniente e segura. Junte-se ao nosso guia local para um dia único e memorável para ver o melhor da Cidade do Cabo em uma apaixonante exploração. Este passeio oferece muito tempo fora do ônibus para explorar Cape Point, Cidade do Cabo, o Cabo da Boa Esperança e a colônia de pinguins de Boulders Beach.",
+        "imagem": "lib/imagens/capePoint.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Ninho da Tigresa",
+        "local": "Paro, Butão",
+        "descrição": "O templo mais visitado do país. Situado na borda de um penhasco perto da cidade de Paro, é visita absolutamente obrigatória e, melhor ainda se deixada para o último dia, como forma de coroar sua jornada. ",
+        "imagem": "lib/imagens/ninhoTigresa.jpeg"
+    }]
+}
